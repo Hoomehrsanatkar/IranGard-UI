@@ -1,4 +1,4 @@
 # IranGard-UI
 <div align="center">
-	<img src="UI.png">
+	<img src="Site.png">
 </div>
